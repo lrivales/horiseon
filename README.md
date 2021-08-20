@@ -10,3 +10,8 @@ Summary of changes:
 3.  Added comments to index.html and style.css.
 
 URL can be reached here: https://lrivales.github.io/horiseon/
+
+Snapshots can be seen here:
+![Top of Page](assets/screenshots/top.png)
+![Middle of Page](assets/screenshots/mid.png)
+![Bottom of Page](assets/screenshots/bottom.png)
